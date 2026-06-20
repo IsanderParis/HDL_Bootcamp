@@ -47,7 +47,7 @@ The figure below shows the state diagram used to build the game. This was the fi
 
 The figure below shows every interconnection between the entities used for the implementation of the game.
 
-![Entities Diagram](entities_diagram.pdf)
+![Entities Diagram](entities_diagram.png)
 
 
 
